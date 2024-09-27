@@ -1,5 +1,4 @@
 {
-  "homepage": "https://LilyLawliet.github.io/react-landing-page/",
   "name": "react-landing-page",
   "private": true,
   "dependencies": {
@@ -14,8 +13,6 @@
   },
   "scripts": {
     "start": "react-scripts --openssl-legacy-provider start",
-    "predeploy": "npm run deploy",
-    "deploy": "gh-pages d-build",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
